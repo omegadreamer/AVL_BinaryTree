@@ -195,4 +195,4 @@ if __name__ == "__main__":
     if result:
         print("Node 22 found\n")
     else:
-        print("Node 22 not fouwnd\n")
+        print("Node 22 not found\n")
